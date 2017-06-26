@@ -3,7 +3,7 @@
 /**
 * 
 */
-echo "<h2>Palindrome example without Using strrev() string function </h2>";
+echo "<h2>Palindrome example without using strrev() string function </h2>";
 
 class palindrome
 {
