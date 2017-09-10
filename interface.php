@@ -8,6 +8,8 @@ abstract class miltery{
 
     private $rank;
 
+   echo  "test";
+
     public function __construct($rank)
     {
         $this->rank = $rank;
