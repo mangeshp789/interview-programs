@@ -8,6 +8,7 @@ abstract class miltery{
 
     private $rank;
 
+   echo "manegesh";
     public function __construct($rank)
     {
         $this->rank = $rank;
